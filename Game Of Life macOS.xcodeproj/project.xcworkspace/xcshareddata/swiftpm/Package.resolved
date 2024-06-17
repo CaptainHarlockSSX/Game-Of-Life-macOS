@@ -1,0 +1,15 @@
+{
+  "originHash" : "3f98ba28e02286bd4573a485bdc1710c0fbe6dd411c1d78e2d15b64a653321d4",
+  "pins" : [
+    {
+      "identity" : "swifty-life",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CaptainHarlockSSX/Swifty-Life",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a7b03d34dff7c950b35d3df6ca034ad0ba785cdc"
+      }
+    }
+  ],
+  "version" : 3
+}
